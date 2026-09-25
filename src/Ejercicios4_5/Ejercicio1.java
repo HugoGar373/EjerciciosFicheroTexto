@@ -5,7 +5,7 @@ import java.io.FileReader;
 import java.io.IOException;
 
 public class Ejercicio1 {
-    private static final String RUTA = "datos.txt";
+    private static final String RUTA = "src/Ejercicios4_5/datos.txt";
 
     public static void main(String[] args) {
         int contadorLineas = 0;
